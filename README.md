@@ -39,11 +39,3 @@ The primary goal of this project is to develop a reliable machine learning model
 ## Conclusion
 Summarize the project's outcomes, highlighting the model's performance, key insights obtained from feature analysis, and potential areas for further improvement. Discuss the significance of the predictive model in the context of predicting Airbnb rental prices.
 
-## Acknowledgments
-Mention any sources or references for the dataset used, libraries utilized, or inspiration drawn for the project. Give credit to relevant resources that contributed to the project's success.
-
-## Authors
-List the contributors, authors, or individuals involved in the project along with their roles or contributions.
-
-## License
-No Licenses.
